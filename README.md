@@ -4,277 +4,277 @@ Source: [https://medium.mybridge.co/](https://medium.mybridge.co/)
 
 TOC:
 
-# [JavaScript](JavaScript)
+# [JavaScript](#JavaScript)
 
-[Top 10 JavaScript Articles for the Past Month (v.August)](#Top-10-JavaScript-Articles-for-the-Past-Month-(v.August))
+[Top 10 JavaScript Articles for the Past Month (v.August)](#Top-10-JavaScript-Articles-for-the-Past-Month-v.August)
 
-[JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[JavaScript Top 10 Articles for the Past Month (v.July 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-(v.July 2017))
+[JavaScript Top 10 Articles for the Past Month (v.July 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-v.July2017)
 
-[JavaScript Top 10 Articles for the Past Month (v.May 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[JavaScript Top 10 Articles for the Past Month (v.May 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[JavaScript Top 10 Articles For the Past Month (v.Oct 2017)](#JavaScript-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[JavaScript Top 10 Articles For the Past Month (v.Oct 2017)](#JavaScript-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[JavaScript Top 10 Articles For the Past Month (v.Sep 2017)](#JavaScript-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[JavaScript Top 10 Articles For the Past Month (v.Sep 2017)](#JavaScript-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[JavaScript Top 10 Articles in March 2017](#JavaScript-Top-10-Articles-in-March 2017)
+[JavaScript Top 10 Articles in March 2017](#JavaScript-Top-10-Articles-in-March2017)
 
-[JavaScript Top 10 Articles in November](#JavaScript-Top-10-Articles-in November)
+[JavaScript Top 10 Articles in November](#JavaScript-Top-10-Articles-inNovember)
 
-[JavaScript Top 10 Articles in October](#JavaScript-Top-10-Articles-in October)
+[JavaScript Top 10 Articles in October](#JavaScript-Top-10-Articles-inOctober)
 
 [JavaScript Top 10 Articles in September](#JavaScript-Top-10-Articles-in-September)
 
-[JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-(v.Feb 2017))
+[JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](#JavaScript-Top-10-Articles-for-the-Past-Month-v.Feb2017)
 
-[JavaScript Top 10 Articles of the Year. (v.2017)](#JavaScript-Top-10-Articles-of-the-Year. (v.2017))
+[JavaScript Top 10 Articles of the Year. (v.2017)](#JavaScript-Top-10-Articles-of-the-Year.v.2017)
 
-[JavaScript Top 10 for the Past Month (v.Nov 2017)](#JavaScript-Top-10-for-the-Past-Month-(v.Nov 2017))
+[JavaScript Top 10 for the Past Month (v.Nov 2017)](#JavaScript-Top-10-for-the-Past-Month-v.Nov2017)
 
-[Top 10 JavaScript Articles for the Past Month. (v.July)](#Top-10-JavaScript-Articles-for-the-Past-Month. (v.July))
+[Top 10 JavaScript Articles for the Past Month. (v.July)](#Top-10-JavaScript-Articles-for-the-Past-Month.v.July)
 
-[Top 10 JavaScript Articles for the Past Month. (v.June)](#Top-10-JavaScript-Articles-for-the-Past-Month. (v.June))
+[Top 10 JavaScript Articles for the Past Month. (v.June)](#Top-10-JavaScript-Articles-for-the-Past-Month.v.June)
 
-[Top 10 JavaScript Articles from Last Month. (v.April)](#Top-10-JavaScript-Articles-from-Last-Month.-(v.April))
+[Top 10 JavaScript Articles from Last Month. (v.April)](#Top-10-JavaScript-Articles-from-Last-Month.-v.April)
 
-[Top 10 JavaScript Articles from Last Month. (v.May)](#Top-10-JavaScript-Articles-from-Last-Month. (v.May))
+[Top 10 JavaScript Articles from Last Month. (v.May)](#Top-10-JavaScript-Articles-from-Last-Month.v.May)
 
-# [node](node)
+# [node](#node)
 
-[Node.JS Top 10 Articles in August](#Node.JS-Top-10-Articles-in August)
+[Node.JS Top 10 Articles in August](#Node.JS-Top-10-Articles-inAugust)
 
-[Node.JS Top 10 Articles for the Past Month (v.Dec 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Node.JS Top 10 Articles for the Past Month (v.Dec 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.Feb 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-(v.Feb 2017))
+[Node.JS Top 10 Articles for the Past Month (v.Feb 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-v.Feb2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.July 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-(v.July 2017))
+[Node.JS Top 10 Articles for the Past Month (v.July 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-v.July2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.May 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[Node.JS Top 10 Articles for the Past Month (v.May 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](#Node.JS-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Node.JS Top 10 Articles For the Past Month (v.Oct 2017)](#Node.JS-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Node.JS Top 10 Articles For the Past Month (v.Oct 2017)](#Node.JS-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Node.JS Top 10 Articles For the Past Month (v.Sep 2017)](#Node.JS-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Node.JS Top 10 Articles For the Past Month (v.Sep 2017)](#Node.JS-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[Node.JS Top 10 Articles in March 2017](#Node.JS-Top-10-Articles-in-March 2017)
+[Node.JS Top 10 Articles in March 2017](#Node.JS-Top-10-Articles-in-March2017)
 
-[Node.JS Top 10 Articles in November](#Node.JS-Top-10-Articles-in November)
+[Node.JS Top 10 Articles in November](#Node.JS-Top-10-Articles-inNovember)
 
 [Node.JS Top 10 Articles in September](#Node.JS-Top-10-Articles-in-September)
 
-[Node.JS Top 10 Articles of the Year (v.2017)](#Node.JS-Top-10-Articles-of-the-Year (v.2017))
+[Node.JS Top 10 Articles of the Year (v.2017)](#Node.JS-Top-10-Articles-of-the-Yearv.2017)
 
-[Node.JS Top 10 Articles From October](#Node.JS-Top-10-Articles-From October)
+[Node.JS Top 10 Articles From October](#Node.JS-Top-10-Articles-FromOctober)
 
-[Top 10 Node.JS Articles for the Past Month. (v.May)](#Top-10-Node.JS-Articles-for-the-Past-Month. (v.May))
+[Top 10 Node.JS Articles for the Past Month. (v.May)](#Top-10-Node.JS-Articles-for-the-Past-Month.v.May)
 
-[Top 10 NodeJS Articles for the Past Month. (v.June)](#Top-10-NodeJS-Articles-for-the-Past-Month. (v.June))
+[Top 10 NodeJS Articles for the Past Month. (v.June)](#Top-10-NodeJS-Articles-for-the-Past-Month.v.June)
 
-[Top 10 Node.JS Articles for the Past Month (v.July)](#Top-10-Node.JS-Articles-for-the-Past-Month (v.July))
+[Top 10 Node.JS Articles for the Past Month (v.July)](#Top-10-Node.JS-Articles-for-the-Past-Monthv.July)
 
-# [React](React)
+# [React](#React)
 
-[22 Amazing open source React projects](#22-Amazing-open-source-React projects)
+[22 Amazing open source React projects](#22-Amazing-open-source-Reactprojects)
 
-[React.JS Top 10 Articles in August.](#React.JS-Top-10-Articles-in August.)
+[React.JS Top 10 Articles in August.](#React.JS-Top-10-Articles-inAugust.)
 
-[React.JS Top 10 Articles for the Past Month (v.Dec 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[React.JS Top 10 Articles for the Past Month (v.Dec 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[React.JS Top 10 Articles for the Past Month (v.Feb 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-(v.Feb 2017))
+[React.JS Top 10 Articles for the Past Month (v.Feb 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-v.Feb2017)
 
-[React.JS Top 10 Articles for the Past Month (v.July 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-(v.July 2017))
+[React.JS Top 10 Articles for the Past Month (v.July 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-v.July2017)
 
-[React.JS Top 10 Articles for the Past Month (v.May 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[React.JS Top 10 Articles for the Past Month (v.May 2017)](#React.JS-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[React.JS Top 10 Articles For the Past Month (v.Sep 2017)](#React.JS-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[React.JS Top 10 Articles For the Past Month (v.Sep 2017)](#React.JS-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[React.JS Top 10 Articles in March 2017](#React.JS-Top-10-Articles-in-March 2017)
+[React.JS Top 10 Articles in March 2017](#React.JS-Top-10-Articles-in-March2017)
 
-[React.JS Top 10 Articles in November](#React.JS-Top-10-Articles-in November)
+[React.JS Top 10 Articles in November](#React.JS-Top-10-Articles-inNovember)
 
 [React.JS Top 10 Articles in September](#React.JS-Top-10-Articles-in-September)
 
-[React.JS Top 10 Articles of The Year (v.2017)](#React.JS-Top-10-Articles-of-The-Year (v.2017))
+[React.JS Top 10 Articles of The Year (v.2017)](#React.JS-Top-10-Articles-of-The-Yearv.2017)
 
-[React.JS Top 10 Articles in October](#React.JS-Top-10-Articles-in October)
+[React.JS Top 10 Articles in October](#React.JS-Top-10-Articles-inOctober)
 
-[React Top 10 Articles For the Past Month (v.Oct 2017)](#React-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[React Top 10 Articles For the Past Month (v.Oct 2017)](#React-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Top 10 React.JS Articles for the Past Month. (v.July)](#Top-10-React.JS-Articles-for-the-Past-Month. (v.July))
+[Top 10 React.JS Articles for the Past Month. (v.July)](#Top-10-React.JS-Articles-for-the-Past-Month.v.July)
 
-[Top 10 ReactJS Articles for the Past Month. (v.June)](#Top-10-ReactJS-Articles-for-the-Past-Month. (v.June))
+[Top 10 ReactJS Articles for the Past Month. (v.June)](#Top-10-ReactJS-Articles-for-the-Past-Month.v.June)
 
-# [Machine Learning](Machine-Learning)
+# [Machine Learning](#Machine-Learning)
 
-[Machine Learning Top 10 Articles for the Past Month.](#Machine-Learning-Top-10-Articles-for-the-Past Month.)
+[Machine Learning Top 10 Articles for the Past Month.](#Machine-Learning-Top-10-Articles-for-the-PastMonth.)
 
-[Machine Learning Top 10 Articles For The Past Month.](#Machine-Learning-Top-10-Articles-For-The-Past Month.)
+[Machine Learning Top 10 Articles For The Past Month.](#Machine-Learning-Top-10-Articles-For-The-PastMonth.)
 
-[Machine Learning Top 10 Articles For The Past Month.](#Machine-Learning-Top-10-Articles-For-The-Past Month.)
+[Machine Learning Top 10 Articles For The Past Month.](#Machine-Learning-Top-10-Articles-For-The-PastMonth.)
 
-[Machine Learning Top 10 Articles for the Past Month](#Machine-Learning-Top-10-Articles-for-the-Past Month)
+[Machine Learning Top 10 Articles for the Past Month](#Machine-Learning-Top-10-Articles-for-the-PastMonth)
 
-[Machine Learning Top 10 Articles for the Past Month](#Machine-Learning-Top-10-Articles-for-the-Past Month)
+[Machine Learning Top 10 Articles for the Past Month](#Machine-Learning-Top-10-Articles-for-the-PastMonth)
 
-[Machine Learning Top 10 Articles for the Past Month (v.Dec 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Machine Learning Top 10 Articles for the Past Month (v.Dec 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Machine Learning Top 10 Articles for the Past Month (v.May 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[Machine Learning Top 10 Articles for the Past Month (v.May 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[Machine Learning Top 10 Articles for the Past Month (v.Nov 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Machine Learning Top 10 Articles for the Past Month (v.Nov 2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Machine Learning Top 10 Articles For the Past Month (v.Sep 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Machine Learning Top 10 Articles For the Past Month (v.Sep 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[Machine Learning Top 10 Articles For the Past Month (v.August 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-(v.August-2017))
+[Machine Learning Top 10 Articles For the Past Month (v.August 2017)](#Machine-Learning-Top-10-Articles-For-the-Past-Month-v.August-2017)
 
-[Machine Learning Top 10 Articles for the Past Month.](#Machine-Learning-Top-10-Articles-for-the-Past Month.)
+[Machine Learning Top 10 Articles for the Past Month.](#Machine-Learning-Top-10-Articles-for-the-PastMonth.)
 
-[Machine Learning Top 10 Articles for the Past Year (v.2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Year (v.2017))
+[Machine Learning Top 10 Articles for the Past Year (v.2017)](#Machine-Learning-Top-10-Articles-for-the-Past-Yearv.2017)
 
-[Top 10 Machine Learning Articles for the Past Month (v.July)](#Top-10-Machine-Learning-Articles-for-the-Past-Month (v.July))
+[Top 10 Machine Learning Articles for the Past Month (v.July)](#Top-10-Machine-Learning-Articles-for-the-Past-Monthv.July)
 
-# [Web](Web)
+# [Web](#Web)
 
 [The Most Useful Free eBooks for Web Developers.](#The-Most-Useful-Free-eBooks-for-Web-Developers.)
 
-[Top 10 Web Development Articles for the Past Month (v.May)](#Top-10-Web-Development-Articles-for-the-Past-Month (v.May))
+[Top 10 Web Development Articles for the Past Month (v.May)](#Top-10-Web-Development-Articles-for-the-Past-Monthv.May)
 
-[Web Development Top 10 Articles for the Past Month (v.Dec 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Web Development Top 10 Articles for the Past Month (v.Dec 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Web Development Top 10 Articles for the Past Month (v.Feb 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-(v.Feb 2017))
+[Web Development Top 10 Articles for the Past Month (v.Feb 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-v.Feb2017)
 
-[Web Development Top 10 Articles for the Past Month (v.June 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-(v.June 2017))
+[Web Development Top 10 Articles for the Past Month (v.June 2017)](#Web-Development-Top-10-Articles-for-the-Past-Month-v.June2017)
 
-[Web Development Top 10 Articles For the Past Month (v.Oct 2017)](#Web-Development-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Web Development Top 10 Articles For the Past Month (v.Oct 2017)](#Web-Development-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Web Development Top 10 Articles from October](#Web-Development-Top-10-Articles-from October)
+[Web Development Top 10 Articles from October](#Web-Development-Top-10-Articles-fromOctober)
 
-[Web Development Top 10 Articles in March 2017](#Web-Development-Top-10-Articles-in-March 2017)
+[Web Development Top 10 Articles in March 2017](#Web-Development-Top-10-Articles-in-March2017)
 
-[Web Development Top 10 Articles in November](#Web-Development-Top-10-Articles-in November)
+[Web Development Top 10 Articles in November](#Web-Development-Top-10-Articles-inNovember)
 
 [Web Development Top 10 Articles in September](#Web-Development-Top-10-Articles-in-September)
 
-[Web Development Top 10 Articles for The Past Month (v.Sep 2017)](#Web-Development-Top-10-Articles-for-The-Past-Month-(v.Sep 2017))
+[Web Development Top 10 Articles for The Past Month (v.Sep 2017)](#Web-Development-Top-10-Articles-for-The-Past-Month-v.Sep2017)
 
-[Web Development Top 10 for the Past Year (v.2017)](#Web-Development-Top-10-for-the-Past-Year (v.2017))
+[Web Development Top 10 for the Past Year (v.2017)](#Web-Development-Top-10-for-the-Past-Yearv.2017)
 
-[Web Development Top 10 Articles in August](#Web-Development-Top-10-Articles-in August)
+[Web Development Top 10 Articles in August](#Web-Development-Top-10-Articles-inAugust)
 
-# [Python](Python)
+# [Python](#Python)
 
-[Python Top 10 Articles For The Past Month.](#Python-Top-10-Articles-For-The-Past Month.)
+[Python Top 10 Articles For The Past Month.](#Python-Top-10-Articles-For-The-PastMonth.)
 
-[Python Top 10 Articles for the Past Month](#Python-Top-10-Articles-for-the-Past Month)
+[Python Top 10 Articles for the Past Month](#Python-Top-10-Articles-for-the-PastMonth)
 
-[Python Top 10 Articles for the Past Month (v.Dec 2017)](#Python-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Python Top 10 Articles for the Past Month (v.Dec 2017)](#Python-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Python Top 10 Articles for the Past Month (v.May 2017)](#Python-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[Python Top 10 Articles for the Past Month (v.May 2017)](#Python-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[Python Top 10 Articles for the Past Month (v.Nov 2017)](#Python-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Python Top 10 Articles for the Past Month (v.Nov 2017)](#Python-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Python Top 10 Articles For the Past Month (v.Oct 2017)](#Python-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Python Top 10 Articles For the Past Month (v.Oct 2017)](#Python-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Python Top 10 Articles For the Past Month (v.Sep 2017)](#Python-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Python Top 10 Articles For the Past Month (v.Sep 2017)](#Python-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[Python Top 10 Articles for the Past Year (v.2017)](#Python-Top-10-Articles-for-the-Past-Year (v.2017))
+[Python Top 10 Articles for the Past Year (v.2017)](#Python-Top-10-Articles-for-the-Past-Yearv.2017)
 
-[Python Top 10 Articles For The Past Month](#Python-Top-10-Articles-For-The-Past Month)
+[Python Top 10 Articles For The Past Month](#Python-Top-10-Articles-For-The-PastMonth)
 
-[Python Top 10 Articles for the Past Month (v.August 2017)](#Python-Top-10-Articles-for-the-Past-Month-(v.August-2017))
+[Python Top 10 Articles for the Past Month (v.August 2017)](#Python-Top-10-Articles-for-the-Past-Month-v.August-2017)
 
-[Python Top 10 Articles (v.November)](#Python-Top-10-Articles-(v.November))
+[Python Top 10 Articles (v.November)](#Python-Top-10-Articles-v.November)
 
-[Top 10 Python Articles for the Past Month (v.July)](#Top-10-Python-Articles-for-the-Past-Month (v.July))
+[Top 10 Python Articles for the Past Month (v.July)](#Top-10-Python-Articles-for-the-Past-Monthv.July)
 
-# [Angular](Angular)
+# [Angular](#Angular)
 
-[18 Amazing open source Angular projects](#18-Amazing-open-source-Angular projects)
+[18 Amazing open source Angular projects](#18-Amazing-open-source-Angularprojects)
 
-[Angular 2.0 Top 10 Articles For The Past Month](#Angular-2.0-Top-10-Articles-For-The-Past Month)
+[Angular 2.0 Top 10 Articles For The Past Month](#Angular-2.0-Top-10-Articles-For-The-PastMonth)
 
-[Angular 2 Top 10 Articles for the Past Month](#Angular-2-Top-10-Articles-for-the-Past Month)
+[Angular 2 Top 10 Articles for the Past Month](#Angular-2-Top-10-Articles-for-the-PastMonth)
 
-[Angular 2.0 Top 10 for the Past Year (v.2017)](#Angular-2.0-Top-10-for-the-Past-Year (v.2017))
+[Angular 2.0 Top 10 for the Past Year (v.2017)](#Angular-2.0-Top-10-for-the-Past-Yearv.2017)
 
-[Angular 2.0 Top 10 from October](#Angular-2.0-Top-10-from October)
+[Angular 2.0 Top 10 from October](#Angular-2.0-Top-10-fromOctober)
 
-[Angular Top 10 Articles for the Past Month (v.Dec 2017)](#Angular-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Angular Top 10 Articles for the Past Month (v.Dec 2017)](#Angular-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Angular Top 10 Articles for the Past Month (v.Nov 2017)](#Angular-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Angular Top 10 Articles for the Past Month (v.Nov 2017)](#Angular-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Angular Top 10 Articles For the Past Month (v.Sep 2017)](#Angular-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Angular Top 10 Articles For the Past Month (v.Sep 2017)](#Angular-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[Top 10 Angular 2.0 Articles for the Past Month. (v.May)](#Top-10-Angular-2.0-Articles-for-the-Past-Month. (v.May))
+[Top 10 Angular 2.0 Articles for the Past Month. (v.May)](#Top-10-Angular-2.0-Articles-for-the-Past-Month.v.May)
 
-[Top 10 Angular 2 Articles for the Past Month. (v.June)](#Top-10-Angular-2-Articles-for-the-Past-Month. (v.June))
+[Top 10 Angular 2 Articles for the Past Month. (v.June)](#Top-10-Angular-2-Articles-for-the-Past-Month.v.June)
 
-[Top 10 Resources to learn Angular (v.April)](#Top-10-Resources-to-learn-Angular-(v.April))
+[Top 10 Resources to learn Angular (v.April)](#Top-10-Resources-to-learn-Angular-v.April)
 
-# [Swift](Swift)
+# [Swift](#Swift)
 
-[Swift Top 10 Articles for the Past Month](#Swift-Top-10-Articles-for-the-Past Month)
+[Swift Top 10 Articles for the Past Month](#Swift-Top-10-Articles-for-the-PastMonth)
 
-[Swift Top 10 Articles For The Past Month](#Swift-Top-10-Articles-For-The-Past Month)
+[Swift Top 10 Articles For The Past Month](#Swift-Top-10-Articles-For-The-PastMonth)
 
-[Swift Top 10 Articles for the Past Month (v.Dec 2017)](#Swift-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Swift Top 10 Articles for the Past Month (v.Dec 2017)](#Swift-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Swift Top 10 Articles for the Past Month (v.May 2017)](#Swift-Top-10-Articles-for-the-Past-Month-(v.May 2017))
+[Swift Top 10 Articles for the Past Month (v.May 2017)](#Swift-Top-10-Articles-for-the-Past-Month-v.May2017)
 
-[Swift Top 10 Articles for the Past Month (v.Nov 2017)](#Swift-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Swift Top 10 Articles for the Past Month (v.Nov 2017)](#Swift-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Swift Top 10 Articles For the Past Month (v.Oct 2017)](#Swift-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Swift Top 10 Articles For the Past Month (v.Oct 2017)](#Swift-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Swift Top 10 Articles For the Past Month (v.Sep 2017)](#Swift-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Swift Top 10 Articles For the Past Month (v.Sep 2017)](#Swift-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-[Swift Top 10 Articles For The Past Year (v.2017)](#Swift-Top-10-Articles-For-The-Past-Year (v.2017))
+[Swift Top 10 Articles For The Past Year (v.2017)](#Swift-Top-10-Articles-For-The-Past-Yearv.2017)
 
-[Swift Top 10 Articles for the Past Month (v.August 2017)](#Swift-Top-10-Articles-for-the-Past-Month-(v.August-2017))
+[Swift Top 10 Articles for the Past Month (v.August 2017)](#Swift-Top-10-Articles-for-the-Past-Month-v.August-2017)
 
-# [CSS](CSS)
+# [CSS](#CSS)
 
-[26 Impressive web projects built with CSS only.](#26-Impressive-web-projects-built-with-CSS only.)
+[26 Impressive web projects built with CSS only.](#26-Impressive-web-projects-built-with-CSSonly.)
 
-[CSS Top 10 Articles For The Past Month](#CSS-Top-10-Articles-For-The-Past Month)
+[CSS Top 10 Articles For The Past Month](#CSS-Top-10-Articles-For-The-PastMonth)
 
-[CSS Top 10 Articles in November](#CSS-Top-10-Articles-in November)
+[CSS Top 10 Articles in November](#CSS-Top-10-Articles-inNovember)
 
-[CSS Top 10 For The Past Month](#CSS-Top-10-For-The-Past Month)
+[CSS Top 10 For The Past Month](#CSS-Top-10-For-The-PastMonth)
 
-# [Vue](Vue)
+# [Vue](#Vue)
 
-[Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](#Vue.js-Top-10-Articles-for-the-Past-Month-(v.Dec 2017))
+[Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](#Vue.js-Top-10-Articles-for-the-Past-Month-v.Dec2017)
 
-[Vue.JS Top 10 Articles for the Past Month (v.Nov 2017)](#Vue.JS-Top-10-Articles-for-the-Past-Month-(v.Nov 2017))
+[Vue.JS Top 10 Articles for the Past Month (v.Nov 2017)](#Vue.JS-Top-10-Articles-for-the-Past-Month-v.Nov2017)
 
-[Vue.JS Top 10 Articles For the Past Month (v.Oct 2017)](#Vue.JS-Top-10-Articles-For-the-Past-Month-(v.Oct 2017))
+[Vue.JS Top 10 Articles For the Past Month (v.Oct 2017)](#Vue.JS-Top-10-Articles-For-the-Past-Month-v.Oct2017)
 
-[Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](#Vue.JS-Top-10-Articles-For-the-Past-Month-(v.Sep 2017))
+[Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](#Vue.JS-Top-10-Articles-For-the-Past-Month-v.Sep2017)
 
-# [Algorithm](Algorithm)
+# [Algorithm](#Algorithm)
 
 [Algorithms Top 10 Articles in September](#Algorithms-Top-10-Articles-in-September)
 
-[Algorithm Top 10 Articles (v.November)](#Algorithm-Top-10-Articles-(v.November))
+[Algorithm Top 10 Articles (v.November)](#Algorithm-Top-10-Articles-v.November)
 
-# [IOS](IOS)
+# [IOS](#IOS)
 
-[21 Amazing Open Source iOS Apps Written in Swift](#21-Amazing-Open-Source-iOS-Apps-Written-in Swift)
+[21 Amazing Open Source iOS Apps Written in Swift](#21-Amazing-Open-Source-iOS-Apps-Written-inSwift)
 
 [39 Open Source Swift UI Libraries For iOS App Development](#39-Open-Source-Swift-UI-Libraries-For-iOS-App-Development)
 
-# [Programming](Programming)
+# [Programming](#Programming)
 
 [12 Free Games to Learn Programming.](#12-Free-Games-to-Learn-Programming.)
 
-[19 Free eBooks to learn programming with Python.](#19-Free-eBooks-to-learn-programming-with Python.)
+[19 Free eBooks to learn programming with Python.](#19-Free-eBooks-to-learn-programming-withPython.)
 
-# [Android](Android)
+# [Android](#Android)
 
-[38 Amazing Open Source Android Apps written in Java](#38-Amazing-Open-Source-Android-Apps-written-in Java)
+[38 Amazing Open Source Android Apps written in Java](#38-Amazing-Open-Source-Android-Apps-written-inJava)
 
 
 
