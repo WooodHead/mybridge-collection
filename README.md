@@ -4,7 +4,7 @@ Source: [https://medium.mybridge.co/](https://medium.mybridge.co/)
 
 TOC:
 
-# [JavaScript](#javascript)
+# [JavaScript](#javascript-1)
 
 [Top 10 JavaScript Articles for the Past Month (v.August)](#top-10-javascript-articles-for-the-past-month-vaugust)
 
@@ -40,7 +40,7 @@ TOC:
 
 [Top 10 JavaScript Articles from Last Month. (v.May)](#top-10-javascript-articles-from-last-monthvmay)
 
-# [node](#node)
+# [node](#node-1)
 
 [Node.JS Top 10 Articles in August](#nodejs-top-10-articles-inaugust)
 
@@ -74,7 +74,7 @@ TOC:
 
 [Top 10 Node.JS Articles for the Past Month (v.July)](#top-10-nodejs-articles-for-the-past-monthvjuly)
 
-# [React](#react)
+# [React](#react-1)
 
 [22 Amazing open source React projects](#22-amazing-open-source-reactprojects)
 
@@ -106,7 +106,7 @@ TOC:
 
 [Top 10 ReactJS Articles for the Past Month. (v.June)](#top-10-reactjs-articles-for-the-past-monthvjune)
 
-# [Machine Learning](#machine-learning)
+# [Machine Learning](#machine-learning-1)
 
 [Machine Learning Top 10 Articles for the Past Month.](#machine-learning-top-10-articles-for-the-pastmonth)
 
@@ -136,7 +136,7 @@ TOC:
 
 [Top 10 Machine Learning Articles for the Past Month (v.July)](#top-10-machine-learning-articles-for-the-past-monthvjuly)
 
-# [Web](#web)
+# [Web](#web-1)
 
 [The Most Useful Free eBooks for Web Developers.](#the-most-useful-free-ebooks-for-web-developers)
 
@@ -164,7 +164,7 @@ TOC:
 
 [Web Development Top 10 Articles in August](#web-development-top-10-articles-inaugust)
 
-# [Python](#python)
+# [Python](#python-1)
 
 [Python Top 10 Articles For The Past Month.](#python-top-10-articles-for-the-pastmonth)
 
@@ -190,7 +190,7 @@ TOC:
 
 [Top 10 Python Articles for the Past Month (v.July)](#top-10-python-articles-for-the-past-monthvjuly)
 
-# [Angular](#angular)
+# [Angular](#angular-1)
 
 [18 Amazing open source Angular projects](#18-amazing-open-source-angularprojects)
 
@@ -214,7 +214,7 @@ TOC:
 
 [Top 10 Resources to learn Angular (v.April)](#top-10-resources-to-learn-angular-vapril)
 
-# [Swift](#swift)
+# [Swift](#swift-1)
 
 [Swift Top 10 Articles for the Past Month](#swift-top-10-articles-for-the-pastmonth)
 
@@ -234,7 +234,7 @@ TOC:
 
 [Swift Top 10 Articles for the Past Month (v.August 2017)](#swift-top-10-articles-for-the-past-month-vaugust-2017)
 
-# [CSS](#css)
+# [CSS](#css-1)
 
 [26 Impressive web projects built with CSS only.](#26-impressive-web-projects-built-with-cssonly)
 
@@ -244,7 +244,7 @@ TOC:
 
 [CSS Top 10 For The Past Month](#css-top-10-for-the-pastmonth)
 
-# [Vue](#vue)
+# [Vue](#vue-1)
 
 [Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](#vuejs-top-10-articles-for-the-past-month-vdec2017)
 
@@ -254,25 +254,25 @@ TOC:
 
 [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](#vuejs-top-10-articles-for-the-past-month-vsep2017)
 
-# [Algorithm](#algorithm)
+# [Algorithm](#algorithm-1)
 
 [Algorithms Top 10 Articles in September](#algorithms-top-10-articles-in-september)
 
 [Algorithm Top 10 Articles (v.November)](#algorithm-top-10-articles-vnovember)
 
-# [IOS](#ios)
+# [IOS](#ios-1)
 
 [21 Amazing Open Source iOS Apps Written in Swift](#21-amazing-open-source-ios-apps-written-inswift)
 
 [39 Open Source Swift UI Libraries For iOS App Development](#39-open-source-swift-ui-libraries-for-ios-app-development)
 
-# [Programming](#programming)
+# [Programming](#programming-1)
 
 [12 Free Games to Learn Programming.](#12-free-games-to-learn-programming)
 
 [19 Free eBooks to learn programming with Python.](#19-free-ebooks-to-learn-programming-withpython)
 
-# [Android](#android)
+# [Android](#android-1)
 
 [38 Amazing Open Source Android Apps written in Java](#38-amazing-open-source-android-apps-written-injava)
 
