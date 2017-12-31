@@ -28,35 +28,35 @@ TOC:
 
 [JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](#javascript-top-10-articles-for-the-past-month-vfeb2017)
 
-[JavaScript Top 10 Articles of the Year. (v.2017)](#javascript-top-10-articles-of-the-yearv.2017)
+[JavaScript Top 10 Articles of the Year. (v.2017)](#javascript-top-10-articles-of-the-yearv2017)
 
 [JavaScript Top 10 for the Past Month (v.Nov 2017)](#javascript-top-10-for-the-past-month-vnov2017)
 
-[Top 10 JavaScript Articles for the Past Month. (v.July)](#top-10-javascript-articles-for-the-past-monthv.july)
+[Top 10 JavaScript Articles for the Past Month. (v.July)](#top-10-javascript-articles-for-the-past-monthvjuly)
 
-[Top 10 JavaScript Articles for the Past Month. (v.June)](#top-10-javascript-articles-for-the-past-monthv.june)
+[Top 10 JavaScript Articles for the Past Month. (v.June)](#top-10-javascript-articles-for-the-past-monthvjune)
 
-[Top 10 JavaScript Articles from Last Month. (v.April)](#top-10-javascript-articles-from-last-month-v.april)
+[Top 10 JavaScript Articles from Last Month. (v.April)](#top-10-javascript-articles-from-last-month-vapril)
 
-[Top 10 JavaScript Articles from Last Month. (v.May)](#top-10-javascript-articles-from-last-monthv.may)
+[Top 10 JavaScript Articles from Last Month. (v.May)](#top-10-javascript-articles-from-last-monthvmay)
 
 # [node](#node)
 
 [Node.JS Top 10 Articles in August](#nodejs-top-10-articles-inaugust)
 
-[Node.JS Top 10 Articles for the Past Month (v.Dec 2017)](#nodejs-top-10-articles-for-the-past-month-v.dec2017)
+[Node.JS Top 10 Articles for the Past Month (v.Dec 2017)](#nodejs-top-10-articles-for-the-past-month-vdec2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.Feb 2017)](#nodejs-top-10-articles-for-the-past-month-v.feb2017)
+[Node.JS Top 10 Articles for the Past Month (v.Feb 2017)](#nodejs-top-10-articles-for-the-past-month-vfeb2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.July 2017)](#nodejs-top-10-articles-for-the-past-month-v.july2017)
+[Node.JS Top 10 Articles for the Past Month (v.July 2017)](#nodejs-top-10-articles-for-the-past-month-vjuly2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.May 2017)](#nodejs-top-10-articles-for-the-past-month-v.may2017)
+[Node.JS Top 10 Articles for the Past Month (v.May 2017)](#nodejs-top-10-articles-for-the-past-month-vmay2017)
 
-[Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](#nodejs-top-10-articles-for-the-past-month-v.nov2017)
+[Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](#nodejs-top-10-articles-for-the-past-month-vnov2017)
 
-[Node.JS Top 10 Articles For the Past Month (v.Oct 2017)](#nodejs-top-10-articles-for-the-past-month-v.oct2017)
+[Node.JS Top 10 Articles For the Past Month (v.Oct 2017)](#nodejs-top-10-articles-for-the-past-month-voct2017)
 
-[Node.JS Top 10 Articles For the Past Month (v.Sep 2017)](#nodejs-top-10-articles-for-the-past-month-v.sep2017)
+[Node.JS Top 10 Articles For the Past Month (v.Sep 2017)](#nodejs-top-10-articles-for-the-past-month-vsep2017)
 
 [Node.JS Top 10 Articles in March 2017](#nodejs-top-10-articles-in-march2017)
 
@@ -64,31 +64,31 @@ TOC:
 
 [Node.JS Top 10 Articles in September](#nodejs-top-10-articles-in-september)
 
-[Node.JS Top 10 Articles of the Year (v.2017)](#nodejs-top-10-articles-of-the-yearv.2017)
+[Node.JS Top 10 Articles of the Year (v.2017)](#nodejs-top-10-articles-of-the-yearv2017)
 
 [Node.JS Top 10 Articles From October](#nodejs-top-10-articles-fromoctober)
 
-[Top 10 Node.JS Articles for the Past Month. (v.May)](#top-10-nodejs-articles-for-the-past-month.v.may)
+[Top 10 Node.JS Articles for the Past Month. (v.May)](#top-10-nodejs-articles-for-the-past-monthvmay)
 
-[Top 10 NodeJS Articles for the Past Month. (v.June)](#top-10-nodejs-articles-for-the-past-monthv.june)
+[Top 10 NodeJS Articles for the Past Month. (v.June)](#top-10-nodejs-articles-for-the-past-monthvjune)
 
-[Top 10 Node.JS Articles for the Past Month (v.July)](#top-10-nodejs-articles-for-the-past-monthv.july)
+[Top 10 Node.JS Articles for the Past Month (v.July)](#top-10-nodejs-articles-for-the-past-monthvjuly)
 
 # [React](#react)
 
 [22 Amazing open source React projects](#22-amazing-open-source-reactprojects)
 
-[React.JS Top 10 Articles in August.](#reactjs-top-10-articles-inaugust.)
+[React.JS Top 10 Articles in August.](#reactjs-top-10-articles-inaugust)
 
-[React.JS Top 10 Articles for the Past Month (v.Dec 2017)](#reactjs-top-10-articles-for-the-past-month-v.dec2017)
+[React.JS Top 10 Articles for the Past Month (v.Dec 2017)](#reactjs-top-10-articles-for-the-past-month-vdec2017)
 
-[React.JS Top 10 Articles for the Past Month (v.Feb 2017)](#reactjs-top-10-articles-for-the-past-month-v.feb2017)
+[React.JS Top 10 Articles for the Past Month (v.Feb 2017)](#reactjs-top-10-articles-for-the-past-month-vfeb2017)
 
-[React.JS Top 10 Articles for the Past Month (v.July 2017)](#reactjs-top-10-articles-for-the-past-month-v.july2017)
+[React.JS Top 10 Articles for the Past Month (v.July 2017)](#reactjs-top-10-articles-for-the-past-month-vjuly2017)
 
-[React.JS Top 10 Articles for the Past Month (v.May 2017)](#reactjs-top-10-articles-for-the-past-month-v.may2017)
+[React.JS Top 10 Articles for the Past Month (v.May 2017)](#reactjs-top-10-articles-for-the-past-month-vmay2017)
 
-[React.JS Top 10 Articles For the Past Month (v.Sep 2017)](#reactjs-top-10-articles-for-the-past-month-v.sep2017)
+[React.JS Top 10 Articles For the Past Month (v.Sep 2017)](#reactjs-top-10-articles-for-the-past-month-vsep2017)
 
 [React.JS Top 10 Articles in March 2017](#reactjs-top-10-articles-in-march2017)
 
@@ -96,15 +96,15 @@ TOC:
 
 [React.JS Top 10 Articles in September](#reactjs-top-10-articles-in-september)
 
-[React.JS Top 10 Articles of The Year (v.2017)](#reactjs-top-10-articles-of-the-yearv.2017)
+[React.JS Top 10 Articles of The Year (v.2017)](#reactjs-top-10-articles-of-the-yearv2017)
 
 [React.JS Top 10 Articles in October](#reactjs-top-10-articles-inoctober)
 
 [React Top 10 Articles For the Past Month (v.Oct 2017)](#react-top-10-articles-for-the-past-month-voct2017)
 
-[Top 10 React.JS Articles for the Past Month. (v.July)](#top-10-reactjs-articles-for-the-past-month.v.july)
+[Top 10 React.JS Articles for the Past Month. (v.July)](#top-10-reactjs-articles-for-the-past-monthvjuly)
 
-[Top 10 ReactJS Articles for the Past Month. (v.June)](#top-10-reactjs-articles-for-the-past-monthv.june)
+[Top 10 ReactJS Articles for the Past Month. (v.June)](#top-10-reactjs-articles-for-the-past-monthvjune)
 
 # [Machine Learning](#machine-learning)
 
@@ -198,7 +198,7 @@ TOC:
 
 [Angular 2 Top 10 Articles for the Past Month](#angular-2-top-10-articles-for-the-pastmonth)
 
-[Angular 2.0 Top 10 for the Past Year (v.2017)](#angular-20-top-10-for-the-past-yearv.2017)
+[Angular 2.0 Top 10 for the Past Year (v.2017)](#angular-20-top-10-for-the-past-yearv2017)
 
 [Angular 2.0 Top 10 from October](#angular-20-top-10-fromoctober)
 
@@ -208,9 +208,9 @@ TOC:
 
 [Angular Top 10 Articles For the Past Month (v.Sep 2017)](#angular-top-10-articles-for-the-past-month-vsep2017)
 
-[Top 10 Angular 2.0 Articles for the Past Month. (v.May)](#top-10-angular-20-articles-for-the-past-month.v.may)
+[Top 10 Angular 2.0 Articles for the Past Month. (v.May)](#top-10-angular-20-articles-for-the-past-monthvmay)
 
-[Top 10 Angular 2 Articles for the Past Month. (v.June)](#top-10-angular-2-articles-for-the-past-monthv.june)
+[Top 10 Angular 2 Articles for the Past Month. (v.June)](#top-10-angular-2-articles-for-the-past-monthvjune)
 
 [Top 10 Resources to learn Angular (v.April)](#top-10-resources-to-learn-angular-vapril)
 
@@ -246,13 +246,13 @@ TOC:
 
 # [Vue](#vue)
 
-[Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](#vuejs-top-10-articles-for-the-past-month-v.dec2017)
+[Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](#vuejs-top-10-articles-for-the-past-month-vdec2017)
 
-[Vue.JS Top 10 Articles for the Past Month (v.Nov 2017)](#vuejs-top-10-articles-for-the-past-month-v.nov2017)
+[Vue.JS Top 10 Articles for the Past Month (v.Nov 2017)](#vuejs-top-10-articles-for-the-past-month-vnov2017)
 
-[Vue.JS Top 10 Articles For the Past Month (v.Oct 2017)](#vuejs-top-10-articles-for-the-past-month-v.oct2017)
+[Vue.JS Top 10 Articles For the Past Month (v.Oct 2017)](#vuejs-top-10-articles-for-the-past-month-voct2017)
 
-[Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](#vuejs-top-10-articles-for-the-past-month-v.sep2017)
+[Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](#vuejs-top-10-articles-for-the-past-month-vsep2017)
 
 # [Algorithm](#algorithm)
 
